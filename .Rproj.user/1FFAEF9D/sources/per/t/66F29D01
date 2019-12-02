@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572497868219.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1462935383",
+    "id" : "66F29D01",
+    "lastKnownWriteTime" : 1572499217,
+    "last_content_update" : 1572499217508,
+    "path" : "C:/Users/mshak/Desktop/lab2MO/lab2R/lab2_1.R",
+    "project_path" : "lab2_1.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
